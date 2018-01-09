@@ -1,0 +1,20 @@
+The zip file contains the following files
+
+1. myshell.c 
+2. bcommands.c //source for builtin commands
+3. parse.c
+4. parse.h
+5. parse_Cmd.h
+6. Makefile
+7. REFERENCES
+8. README
+
+The program uses the compiler flag -m32 during compilation.
+
+STEPS TO GENERATE THE .a FILE
+------------------------------
+
+1. make clean
+2. make
+
+This creates the executable "ush"

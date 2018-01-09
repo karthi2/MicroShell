@@ -1,0 +1,7 @@
+I had discussions on the design logic with Avinash Koradhanyamath and Chandan Hoode. I had also referred the Linux man pages and other web pages on the internet to understand the functionality of various system calls
+	- kill
+	- wait
+	- waitpid
+	- open
+	- close
+	- strtok
